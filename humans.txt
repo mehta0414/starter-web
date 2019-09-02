@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rohit Mehta         rohitmehta3812@gmail.com
 
 # THANKS
 
