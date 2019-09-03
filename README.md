@@ -24,4 +24,4 @@ Please fork this repository and then issue Pull requests for review
 
 ### Copyright
 
-2019 ROHIT MEHTA
+2019 ROHIT MEHTA. All rights reserved.
