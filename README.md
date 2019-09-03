@@ -2,6 +2,7 @@
 
 This is a simple website project repository for showing how to use git and github together.
 Adding a line for rebasing example, then more changes from myfeature branch too.
+Updating for emergency fix after stashing.
 
 
 ## Introduction
